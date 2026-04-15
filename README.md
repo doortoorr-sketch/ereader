@@ -1,3 +1,9 @@
+⚠️CURRENTLY DOES NOT OPEN BOOKS FROM SD CARD⚠️
+
+
+
+
+
 ESP32 E-Reader Project
 
 Project Overview
